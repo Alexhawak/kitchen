@@ -25,7 +25,7 @@
         .navbar{
             display: flex;
         justify-content: space-around;
-        background-color: rgba(166, 33, 33, 0.489);
+        background-color: rgba(0, 0, 0, 0.422);
         
         }
 .flex{
@@ -219,6 +219,9 @@ height: 530px;
     flex-direction: row;
 }
 
+.crd{
+    text-align: center;
+}
 .card-title{
  text-align: center;
  font-size: 1.3rem;
